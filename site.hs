@@ -34,5 +34,7 @@ main = hakyll $ do
 
 
 --------------------------------------------------------------------------------
+-- Place the content in the default language at the root of the generated
+-- site. The other languages stay in their respective folders
 langRoute :: Routes
 langRoute = gsubRoute (defaultLang ++ "/") (const "")

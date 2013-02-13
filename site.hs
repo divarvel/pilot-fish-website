@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 import           Control.Applicative ((<$>))
+import           Control.Monad       (forM_)
 import           Data.Monoid         (mappend)
 import           Hakyll
 
@@ -11,7 +12,6 @@ main = hakyll $ do
     match "img/*" $ do
         route   idRoute
         compile copyFileCompiler
-		
     match "js/*" $ do
         route   idRoute
         compile copyFileCompiler
@@ -20,9 +20,10 @@ main = hakyll $ do
         route   idRoute
         compile compressCssCompiler
 
-    match "*.markdown" $ do
-        route   $ setExtension "html"
+    forM_ ["fr","en"] $ \lang -> match (fromGlob $ lang ++ "/*.markdown") $ do
+        route   $ langRoute `composeRoutes` (setExtension "html")
         compile $ pandocCompiler
+            >>= loadAndApplyTemplate (fromFilePath $ "templates/menu-"++ lang ++".html") defaultContext
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
 
@@ -74,3 +75,8 @@ postList sortFilter = do
     itemTpl <- loadBody "templates/post-item.html"
     list    <- applyTemplateList itemTpl postCtx posts
     return list
+--------------------------------------------------------------------------------
+langs = ["fr", "en"]
+defaultLang = "fr"
+
+langRoute = gsubRoute (defaultLang ++ "/") (const "")

@@ -1,4 +1,0 @@
----
-title: Le sous-marin
----
-

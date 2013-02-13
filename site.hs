@@ -23,7 +23,7 @@ main = hakyll $ do
         route   idRoute
         compile compressCssCompiler
 
-    forM_ ["fr","en"] $ \lang -> match (fromGlob $ lang ++ "/*.markdown") $ do
+    forM_ langs $ \lang -> match (fromGlob $ lang ++ "/*.markdown") $ do
         route   $ langRoute `composeRoutes` (setExtension "html")
         compile $ pandocCompiler
             >>= loadAndApplyTemplate (fromFilePath $ "templates/menu-"++ lang ++".html") defaultContext

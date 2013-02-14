@@ -4,7 +4,7 @@ title: Partners
 
 ##Partners
 
-###Rejoignez l\'aventure et soutenez le Projet Poisson Pilote!
+###Join the adventure and support the Pilot Fish Project!
 
 - Contribute to the bring back to the public representative images of biodiversity 
 in the English Channel

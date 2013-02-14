@@ -6,15 +6,21 @@ title: The Expedition
 
 ###The English Channel is almost in our backyard, but do we know it well?
 
+<div style="text-align: justify;">
+
 For centuries, The Channel\'s rich underwater life has fed the densely populated coasts surrounding it. 
 Strong currents, irregular coastlines and a temperate climate 
 have supported its uniquely productive biodiversity.
-Today, how well is it coping? and how will it be 50 years from now?
-Other than following rather abstract fisheries statistics 
--the tip of the biodiversity iceberg really-, 
-how could we more easily visualize what is at stake?
 
-![](img/seabed.jpg)
+Today, how well is it coping? and how will it be 50 years from now?
+Fisheries statistics are useful, but do not answer all the questions. 
+How could we more easily visualize what is at stake?
+
+<div style="text-align: center;">
+
+![](../img/seabed.jpg)
+
+</div>
 
 ###The Transect
 
@@ -26,16 +32,21 @@ Covering around 250 km from Plymouth in UK to Saint-Malo in France,
 we will follow the sea bed without surfacing, 
 across a variety of underwater landscapes including the deep and remote valley at mid way.
 
-![](img/mapS.jpg)
+<div style="text-align: center;">
+
+![](../img/mapS.jpg)
+
+</div>
 
 ###The Data
 
-Aside from the direct observations, a continuous recording of video, sound and other sensors is planned
-to bring back to the public comprehensive and unbiased images of the Channel. 
+Aside from the direct observations, a continuous recording of seabed images, sound and other sensors is planned
+to bring back to the public comprehensive and unbiased views of the Channel. 
 The data could also be exploited by scientists to improve ecosystem habitats maps, 
 spot some rare species and potentially serve as a baseline for future repeat surveys.
+
 We might also uncover some shipwrecks, 
-of which there are dozen lying there waiting to be identified...
+of which there are dozen lying there waiting to be identified\...
 
 ###Human Power Challenge
 
@@ -47,11 +58,15 @@ As engineers concerned by the outlook on energy and climate change,
 we also want to convey the message that energy soberness is possible 
 even in the weirdest of places.
 
-![](img/pedallingS.jpg)
+<div style="text-align: center;">
+
+![](../img/pedalageS.jpg)
+
+</div>
 
 ###The Pilot Fish Allegory
 
-Maintaining autonomy –energy, respiratory, navigation- in a hostile place is far from trivial
+Maintaining autonomy energy, respiratory, navigation in a hostile place is far from trivial
 even for a few days. Every input and output has to be accounted for, 
 including the ones taken for granted on earth.
 We hope that this observation, along with the data brought by the expedition, 
@@ -60,4 +75,11 @@ will help people realizing how closely we depend on our environment as it is tod
 A bit like the pilot fish and sharks depend on each other, 
 we depend on sustained biodiversity to live and feed ourselves over the long run.
 
-![](img/pilot-fish.jpg)
+<div style="text-align: center;">
+
+![](../img/pilot-fish.jpg)
+
+</div>
+
+
+</div>

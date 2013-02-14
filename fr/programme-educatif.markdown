@@ -2,7 +2,20 @@
 title: Le programme éducatif
 ---
 
+<div style="text-align: justify;">
+<div class="row">
+<div class="span8">
+
 ##Le programme éducatif
+
+</div>
+
+<div class="span4">
+
+![ ](img/kidsub.gif)
+
+</div>
+</div>
 
 ###Objectifs
 
@@ -29,3 +42,5 @@ ciblant les écoliers des alentours pendant toute la durée du projet.
 présentant le sous-marin ainsi que les images et sons enregistrés. 
 Ces expositions pourraient être envisagées au Grand Aquarium de Saint-Malo, 
 dans la marina de Saint-Malo, chez nos partenaires, dans des écoles.
+
+</div>

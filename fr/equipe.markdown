@@ -8,6 +8,9 @@ Deux amis qui souhaitent partager leur passion pour les défis techniques et l\'
 
 ###Antoine Delafargue
 
+<div class="row">
+    <div class="span8">
+
 Il est à l\'origine du projet et de la conception du sous-marin. 
 Il embarquera dans le sous-marin comme co-pilote:
 
@@ -18,9 +21,19 @@ Il embarquera dans le sous-marin comme co-pilote:
 - a volé sous la terre en 2003
 - Fan de sports de pleine nature (Course, escalade, plongée, spéléologie, vélo)
 
-![](img/AD.jpg)
+    </div>
+
+    <div class="span4">
+
+	![ ](img/AD.jpg)
+
+    </div>
+</div>
 
 ###Michael de Lagarde
+
+<div class="row">
+    <div class="span8">
 
 Associé au projet depuis la première heure, il embarquera comme co-pilote dans le sous-marin.
 
@@ -31,14 +44,29 @@ Associé au projet depuis la première heure, il embarquera comme co-pilote dans
 - a volé sous la terre en 2003
 - Fan de sports de pleine nature (course, escalade, parapente, spéléologie, vélo)
 
-![](img/MLD.jpg)
+    </div>
 
+    <div class="span4">
+
+	![ ](img/MD.jpg)
+
+	</div>
+</div>
+	
 ###Projet \'On a volé sous la Terre\'
 
 Salle de la Verna, massif de La Pierre Saint Martin dans les Pyrénées, mars 2003.
+
+<div style="text-align: center;">
+
+![](img/Mongo.jpg)
+
+</div>
+
+<div style="text-align: left;">
 
 Pour la première fois, cette immense cavité fut eclairée entièrement. 
 Elle a depuis été l\'objet d\'un intérêt accru: 
 elle abrite une installation hydroélectrique unique au monde et est ouverte au public.   
 
-![](img/Mongo.jpg)
+</div>

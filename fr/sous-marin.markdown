@@ -2,6 +2,10 @@
 title: Le sous-marin
 ---
 
+<div style="text-align: justify;">
+<div class="row">
+<div class="span8">
+
 ##Le sous-marin
 
 ###Construit autour d\'une armure d\'acier
@@ -9,10 +13,18 @@ title: Le sous-marin
 A la différence des plongeurs, nous respirerons de l\'air à la pression atmosphérique dans le sous-marin.
 Pour cela, une coque en acier d\'1 cm d\'épaisseur nous protègera de la pression externe de l\'eau, 
 avec un facteur de sécurité d\'environ 3 au plus profond de l\'itinéraire (-140m). 
-Pour donner une idée des forces mécaniques en jeu, 
-ouvrir la trappe d\'accès du sous-marin à ces profondeurs serait aussi facile que de soulever un semi-remorque chargé.
 
-![](img/hull.jpg)
+Pour donner une idée des forces mécaniques en jeu, 
+ouvrir la trappe d\'accès du sous-marin à ces profondeurs serait aussi facile que de soulever un semi-remorque.
+
+</div>
+
+<div class="span4">
+
+![ ](img/hull.jpg)
+
+</div>
+</div>
 
 ###Optimisé pour la propulsion humaine
 
@@ -22,11 +34,15 @@ Nous avons donc mis l\'accent sur les performances hydrodynamiques du sous-marin
 notamment en utilisant une coque externe en matériau composite aux formes étudiées. 
 Les erreurs de conception seront payées en sueur!
 
+<div style="text-align: center;">
+
 ![](img/Soumweb.jpg)
+
+</div>
 
 ###Et entièrement autonome
 
-air, propulsion, navigation, acquisition des données, eau et nourriture 
+Air, propulsion, navigation, acquisition des données, eau et nourriture 
 seront gérés en autonomie totale par les deux co-pilotes pendant plus d\'une semaine.
 
 ###Sécurité
@@ -38,3 +54,5 @@ De nombreux tests seront effectués,
 comme la coque en acier qui sera testée à deux fois la pression maximale attendue. 
 Pendant l\'expédition, un bateau suivra le sous-marin par liaison acoustique 
 pour intervenir en cas d\'urgence. 
+
+</div>

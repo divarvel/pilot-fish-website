@@ -2,7 +2,20 @@
 title: Educational Programme
 ---
 
+<div style="text-align: justify;">
+<div class="row">
+<div class="span8">
+
 ##Educational Programme
+
+</div>
+
+<div class="span4">
+
+![ ](../img/kidsub.gif)
+
+</div>
+</div>
 
 ###Objectives
 

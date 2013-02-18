@@ -2,17 +2,18 @@
 title: Le programme éducatif
 ---
 
-<div style="text-align: justify;">
 <div class="row">
-<div class="span8">
+<div class="span1.5">
 
-##Le programme éducatif
+<img
+ style="border: 0px solid ; width: 100px; height: 105px;"
+ alt="logo" src="img/LogoFRL.gif">
 
 </div>
 
-<div class="span4">
+<div class="span10.5">
 
-![ ](img/kidsub.gif)
+##Le programme éducatif
 
 </div>
 </div>
@@ -34,13 +35,21 @@ Espérons qu\'un sous-marin de poche moins énergivore aura l\'effet équivalent
 nouvelles détaillées et régulières pendant la préparation et les tests, 
 des fiches thématiques à caractère éducatif, des données en temps réel durant l\'expédition.
 
-- Nous nous reposerons aussi sur les professionnels de l\'Aquarium National de Plymouth 
-et du Grand Aquarium de Saint Malo, pour développer des programmes éducatifs 
+- Nous nous reposerons aussi sur les professionnels comme ceux de l\'Aquarium National de Plymouth
+ pour développer des programmes éducatifs 
 ciblant les écoliers des alentours pendant toute la durée du projet.
 
 - Enfin, après l\'expédition nous souhaitons organiser des expositions 
 présentant le sous-marin ainsi que les images et sons enregistrés. 
 Ces expositions pourraient être envisagées au Grand Aquarium de Saint-Malo, 
-dans la marina de Saint-Malo, chez nos partenaires, dans des écoles.
+dans la marina de Saint-Malo, chez nos partenaires, dans les écoles de la région.
+
+Vous travaillez dans une école et le projet vous intéresse pour vos élèves?
+
+Contactez-nous: <mailto:contact@projetpoissonpilote.com>
+
+<div style="text-align: center;">
+
+![](img/kidsub.gif)
 
 </div>

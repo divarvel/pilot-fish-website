@@ -2,17 +2,18 @@
 title: Educational Programme
 ---
 
-<div style="text-align: justify;">
 <div class="row">
-<div class="span8">
+<div class="span1.5">
 
-##Educational Programme
+<img
+ style="border: 0px solid ; width: 100px; height: 105px;"
+ alt="logo" src="../img/LogoENL.gif">
 
 </div>
 
-<div class="span4">
+<div class="span10.5">
 
-![ ](../img/kidsub.gif)
+##Educational Programme
 
 </div>
 </div>
@@ -40,3 +41,13 @@ targeting pupils before, during and after the expedition.
 - In addition, we wish to set up exhibitions after the expedition 
 featuring the submarine and the images and sounds from the Channel, 
 possibly in these Aquariums, in the Saint-Malo marina, in our partners offices, in schools.
+
+You are teacher or school director, and you are interested by the project for your pupils?
+
+Contact us: <mailto:contact@pilotfishproject.com>
+
+<div style="text-align: center;">
+
+![](../img/kidsub.gif)
+
+</div>

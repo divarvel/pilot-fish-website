@@ -2,11 +2,23 @@
 title: The Expedition
 ---
 
+<div class="row">
+<div class="span1.5">
+
+<img
+ style="border: 0px solid ; width: 100px; height: 105px;"
+ alt="logo" src="../img/LogoENL.gif">
+
+</div>
+
+<div class="span10.5">
+
 ## The Expedition
 
-###The English Channel is almost in our backyard, but do we know it well?
+</div>
+</div>
 
-<div style="text-align: justify;">
+###The English Channel is almost in our backyard, but do we know it well?
 
 For centuries, The Channel\'s rich underwater life has fed the densely populated coasts surrounding it. 
 Strong currents, irregular coastlines and a temperate climate 
@@ -38,6 +50,22 @@ across a variety of underwater landscapes including the deep and remote valley a
 
 </div>
 
+###Human Power Challenge
+
+To spice up the experience,
+the submarine propulsion will be powered by its 2 pilots/passengers taking shifts pedaling, 
+each burning as many calories as cycling a stage of the Tour de France every day. 
+
+As engineers concerned by the outlook on energy and climate change, 
+we want to convey the message that energy soberness is possible 
+even in the weirdest of places.
+
+<div style="text-align: center;">
+
+![](../img/pedalageS.jpg)
+
+</div>
+
 ###The Data
 
 Aside from the direct observations, a continuous recording of seabed images, sound and other sensors is planned
@@ -47,22 +75,6 @@ spot some rare species and potentially serve as a baseline for future repeat sur
 
 We might also uncover some shipwrecks, 
 of which there are dozen lying there waiting to be identified\...
-
-###Human Power Challenge
-
-To spice up the experience,
-the submarine propulsion will be powered by its 2 pilots/passengers taking shifts pedaling. 
-This will provide silence, slowness and we guess some fun!
-
-As engineers concerned by the outlook on energy and climate change, 
-we also want to convey the message that energy soberness is possible 
-even in the weirdest of places.
-
-<div style="text-align: center;">
-
-![](../img/pedalageS.jpg)
-
-</div>
 
 ###The Pilot Fish Allegory
 
@@ -78,8 +90,5 @@ we depend on sustained biodiversity to live and feed ourselves over the long run
 <div style="text-align: center;">
 
 ![](../img/pilot-fish.jpg)
-
-</div>
-
 
 </div>

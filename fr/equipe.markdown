@@ -2,9 +2,23 @@
 title: L'équipe
 ---
 
+<div class="row">
+<div class="span1.5">
+
+<img
+ style="border: 0px solid ; width: 100px; height: 105px;"
+ alt="logo" src="img/LogoFRL.gif">
+
+</div>
+
+<div class="span10.5">
+
 ##L\'équipe
 
-Deux amis qui souhaitent partager leur passion pour les défis techniques et l\'exploration:
+Autour de deux amis qui souhaitent partager leur passion pour les défis techniques et l\'exploration:
+
+</div>
+</div>
 
 ###Antoine Delafargue
 
@@ -14,11 +28,10 @@ Deux amis qui souhaitent partager leur passion pour les défis techniques et l\'
 Il est à l\'origine du projet et de la conception du sous-marin. 
 Il embarquera dans le sous-marin comme co-pilote:
 
-- 31 ans, marrié, 3 enfants
-- Ingénieur de formation, actuellement employé par une compagnie pétrolière
-- Expatrié dans 4 pays, mais avec des racines dans sa Bretagne natale.
+- 31 ans, marié, 3 enfants, breton
+- Ingénieur exerçant dans l\'industrie
 - Service militaire comme Commando dans la Marine Nationale
-- a volé sous la terre en 2003
+- A volé sous la terre en 2003
 - Fan de sports de pleine nature (Course, escalade, plongée, spéléologie, vélo)
 
     </div>
@@ -36,12 +49,12 @@ Il embarquera dans le sous-marin comme co-pilote:
     <div class="span8">
 
 Associé au projet depuis la première heure, il embarquera comme co-pilote dans le sous-marin.
-
+	
 - 32 ans
 - Ingénieur de formation
-- Président et Fondateur en 2011 de Delair-Tech, une entreprise de drones aériens.
-- Service militaire comme Commando dans la Marine Nationale. 
-- a volé sous la terre en 2003
+- Préside et Fonde en 2011 une entreprise de drones aériens
+- Service militaire comme Commando dans la Marine Nationale
+- A volé sous la terre en 2003
 - Fan de sports de pleine nature (course, escalade, parapente, spéléologie, vélo)
 
     </div>

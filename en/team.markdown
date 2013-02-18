@@ -1,10 +1,24 @@
 ---
-title: Team
+title: The Team
 ---
+
+<div class="row">
+<div class="span1.5">
+
+<img
+ style="border: 0px solid ; width: 100px; height: 105px;"
+ alt="logo" src="../img/LogoENL.gif">
+
+</div>
+
+<div class="span10.5">
 
 ##Team
 
-Two friends wishing to share their combined passions for engineering, outdoors and challenge:
+Around two friends wishing to share their combined passions for engineering, outdoors and challenge:
+
+</div>
+</div>
 
 ###Antoine Delafargue
 
@@ -14,9 +28,8 @@ Two friends wishing to share their combined passions for engineering, outdoors a
 The man at the origin of the project and of the first submarine designs. 
 He will be on board the submarine for the expedition. 
 
-- 31 yr old, married, 3 kids
-- Engineer by training and occupation, currently with an oil company
-- Expatriated in 4 countries, but with strong roots in North Brittany
+- 31 yr old, married, 3 kids, his roots in North Brittany
+- Engineer by training and as current occupation
 - Military training as Marine Commando with the French Navy
 - Flew underground in 2003
 - Outdoor sport enthousiast (running, orienteering, climbing, diving, caving, cycling)
@@ -38,9 +51,9 @@ He will be on board the submarine for the expedition.
 He accompanied the project since its start and will be the Pilot Fish co-pilot.
 
 - 32 yr old
-- Engineer by training and occupation
-- Founder and Chairman of Delair-Tech, an aerial drone company in 2011
-- Military training as Marine Commando with the French Navy. 
+- Engineer
+- Founder and Chairman of an aerial drone company in 2011
+- Military training as Marine Commando with the French Navy
 - Flew underground in 2003
 - Outdoor sport enthousiast (running, climbing, paragliding, caving, cycling)
 

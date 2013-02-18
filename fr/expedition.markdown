@@ -2,11 +2,23 @@
 title: L'expédition
 ---
 
+<div class="row">
+<div class="span1.5">
+
+<img
+ style="border: 0px solid ; width: 100px; height: 105px;"
+ alt="logo" src="img/LogoENL.gif">
+
+</div>
+
+<div class="span10.5">
+
 ## L\'expédition
 
-###La Manche est toute proche de chez nous, mais la connaissons-nous bien?
+</div>
+</div>
 
-<div style="text-align: justify;">
+###La Manche est toute proche de chez nous, mais la connaissons-nous bien?
 
 Pendant des siècles, La Manche a nourri les régions densément peuplées qui l\'entourent. 
 Des courants parmi les plus puissants au monde, des côtes irrégulières et un climat tempéré 
@@ -38,23 +50,12 @@ afin de pouvoir observer une variété de paysages sous-marins, dont la partie c
 
 </div>
 
-###Les données
-
-En complément des observations directes, nous enregistrerons des paramètres en continu dont une
-les images du fond et le bruit ambiant. Notre ambition est d\'apporter au grand public une vision
-représentative du fond de la Manche et d\'aider les chercheurs à affiner les cartes d\'habitats des
-écosystèmes de la Manche.
-
-Nous pourrions également découvrir des épaves. Il en existe des centaines en Manche ouest, et
-beaucoup n\'ont pas encore été identifiées.
-
 ###Le défi de la propulsion humaine
 
-Pour corser l\'expérience, le sous-marin sera mu par ses deux pilotes qui pédaleront en relai.
-La propulsion humaine donnera à l\'expédition de la lenteur propice aux observations, du silence,
-et un défi physique.
+Pour corser l\'expérience, le sous-marin sera mu par ses deux pilotes qui pédaleront en relai, 
+ce qui représentera pour chacun une dépense calorique équivalente à une étape du Tour de France par jour.
 
-Nous souhaitons aussi montrer un exemple concret de sobriété énergétique, car nous sommes attentifs
+Avec ce défi, nous souhaitons montrer un exemple concret de sobriété énergétique, car nous sommes attentifs
 aux choix énergétiques qui nous attendent, notamment face au changement climatique.
 
 <div style="text-align: center;">
@@ -62,6 +63,16 @@ aux choix énergétiques qui nous attendent, notamment face au changement climat
 ![](img/pedalageS.jpg)
 
 </div>
+
+###Les données
+
+En complément des observations directes, nous enregistrerons des paramètres en continu dont
+les images du fond et le bruit ambiant. Notre ambition est d\'apporter au grand public une vision
+représentative du fond de la Manche et d\'aider les chercheurs à affiner les cartes d\'habitats des
+écosystèmes de la Manche.
+
+Nous pourrions également découvrir des épaves. Il en existe des centaines en Manche ouest, et
+beaucoup n\'ont pas encore été identifiées.
 
 ###L\'allégorie du Poisson Pilote
 
@@ -72,7 +83,5 @@ tentations court-termistes.
 <div style="text-align: center;">
 
 ![](img/pilot-fish.jpg)
-
-</div>
 
 </div>

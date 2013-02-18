@@ -2,20 +2,35 @@
 title: The Submarine
 ---
 
-<div style="text-align: justify;">
 <div class="row">
-<div class="span8">
+<div class="span1.5">
+
+<img
+ style="border: 0px solid ; width: 100px; height: 105px;"
+ alt="logo" src="../img/LogoENL.gif">
+
+</div>
+
+<div class="span10.5">
 
 ##The Submarine
+
+will probably be the smallest autonomous long range submarine ever built and the first human powered one.
+
+</div>
+</div>
+
+<div class="row">
+<div class="span8">
 
 ###Built around an armor
 
 Unlike scuba divers, we will breathe recycled air at atmospheric pressure inside the submarine. 
 This will be achieved thanks to a 1 cm thick steel hull 
-that will protect us from the external pressures with a factor of safety around 3. 
+that will protect us from the external pressures with a factor of safety of 3. 
 
 To give an idea of the tremendous forces involved, 
-opening the hatch at the maximum trip depth of -140m would be as easy as lifting a heavy road lorry.
+opening the hatch at the maximum trip depth of -120m would be as easy as lifting a heavy road lorry.
 
 </div>
 
@@ -50,9 +65,7 @@ Featuring all this in such a small living space is one project in itself.
 has been and will be our foremost priority.
 The submarine design and construction will meet or exceed internationally recognized standards 
 for manned submersibles, under the supervision of professionals at Marlin Submarines. 
-Key elements like the hull will be tested unmanned at twice the expected water depth. 
+Key elements will be tested before the expedition, like the hull which is to be tested unmanned at twice the expected water depth. 
 During the expedition a surface vessel will follow the submarine 
 to be there in case of emergency 
 (it will also record the submarine\'s position accurately for data exploitation). 
-
-</div>
